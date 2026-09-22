@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/cheatsheets/Preprocessing Prefix Function.md",
+                "file": "docs/cheatsheets/Z-Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preprocessing Prefix Function"
+              "title": "Z-Function"
             }
           }
         ]
@@ -214,29 +214,30 @@
   },
   "active": "ab1332ad7add77c6",
   "lastOpenFiles": [
-    "build/Testing/20260830-2158/Test.xml.tmpf544e",
-    "build/Testing/Temporary/LastTest_20260830-2158.log.tmp78e2e",
-    "build/compile_commands.json.tmpe185b",
-    "build/CMakeFiles/rules.ninja.tmp2d86c",
-    "build/build.ninja.tmp8432f",
+    "build/Testing/Temporary/LastTest_20260830-2158.log.tmp8e447",
+    "build/stRSESp3",
+    "build/stqbET6v",
+    "build/CMakeFiles/algorithms.dir/algorithms/strings/zFunctionSearch.cpp.obj.d",
+    "build/zFunctionSearch_test.exe",
+    "build/CMakeFiles/zFunction_test.dir/tests/string_test/zFunction_test.cpp.obj",
+    "build/CMakeFiles/zFunctionSearch_test.dir/tests/string_test/zFunctionSearch_test.cpp.obj",
+    "build/CMakeFiles/KnuthMorrisPratt_test.dir/tests/string_test/KnuthMorrisPratt_test.cpp.obj",
+    "build/CMakeFiles/prefix_function_test.dir/tests/string_test/prefix_function_test.cpp.obj",
+    "build/CMakeFiles/zFunction_test.dir/tests/string_test/zFunction_test.cpp.obj.d",
+    "build/CMakeFiles/zFunctionSearch_test.dir/tests/string_test/zFunctionSearch_test.cpp.obj.d",
+    "docs/cheatsheets/Без названия.md",
+    "README.md",
+    "docs/cheatsheets/Z-Function.md",
+    "docs/cheatsheets/Preprocessing Prefix Function.md",
+    "docs/cheatsheets/Boyer-Moore.md",
+    "docs/cheatsheets/Brute Force Substring Search.md",
     "docs/cheatsheets/Lecture Note.md",
     "docs/cheatsheets/Knuth-Morris-Pratt Algorithm.md",
-    "docs/cheatsheets/Brute Force Substring Search.md",
-    "docs/cheatsheets/Preprocessing Prefix Function.md",
-    "docs/cheatsheets/Z-Function.md",
     "docs/lectures/gh/gh.md",
-    "docs/lectures/gh",
-    "build/Testing/20260830-2158/Test.xml.tmp83606",
-    "build/Testing/Temporary/LastTest_20260830-2158.log.tmpbfb05",
-    "build/CMakeFiles/zFunction_test.dir/tests/string_test/zFunction_test.cpp.obj.d",
-    "build/Testing/20260830-2158/Test.xml.tmp95c20",
-    "build/Testing/Temporary/LastTest_20260830-2158.log.tmp14c84",
     "docs/lectures/Lecture №1 (05.09.2026)/Lecture Draw.excalidraw.md",
     "Excalidraw/Drawing 2026-09-05 14.39.03.excalidraw.md",
     "docs/lectures/Lecture №1 (05.09.2026)/Drawing 2026-09-05 14.38.56.excalidraw.md",
     "docs/lectures/Lecture №1 (05.09.2026)/Без названия.canvas",
-    "Без названия.md",
-    "README.md",
-    "docs/cheatsheets/Без названия.md"
+    "Без названия.md"
   ]
 }

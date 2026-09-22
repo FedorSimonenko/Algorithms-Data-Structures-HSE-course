@@ -11,4 +11,7 @@
 	3. If `i` inside segment we take `z[i - left]` but this value of `z[i - left]`can't be more than `right - i`(lenght from `i` to the end of the rightmost segment)
 	4. Go from element `i` to the end of string comparing with element from the beginning of the string and increase `z[i]`
 	5. if `i + z[i]` become more than right border `left = i` and `right = i + z[i]` 
-- **Complexity:** `O(n)` where n is length of the string.
+- **Complexity:** `O(n) where n is length of the string.
+## Z-Function for Searching Pattern
+- **Idea:** let `p` - pattern and `s` - string, then let's find z-Function for `p + "#" + s` where for `z[i] == p.length()` we have index `i` of our pattern in string. 
+- **Complexity** `O(n + m)` where n is length of pattern and m is length of string
