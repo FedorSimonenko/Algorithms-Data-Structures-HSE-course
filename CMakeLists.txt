@@ -10,10 +10,12 @@ enable_testing()
 
 file(GLOB_RECURSE SORTING_SRC "algorithms/sorting/*.cpp")
 file(GLOB_RECURSE SEARCHING_SRC "algorithms/searching/*.cpp")
+file(GLOB_RECURSE STRING_SRC "algorithms/strings/*.cpp")
 
 add_library(algorithms STATIC
     ${SORTING_SRC}
     ${SEARCHING_SRC}
+    ${STRING_SRC}
 )
 
 target_include_directories(algorithms PUBLIC algorithms)
